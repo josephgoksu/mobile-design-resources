@@ -6,12 +6,12 @@
 
 
 ### Table of contents 𝌞
-1. Platform guides
-2. Best Practices
-3. Good reads
-4. Typography
-5. Trends
-6. Courses
+1. [Platform guides](#platform-guides-)
+2. [Best Practices](#best-practices-)
+3. [Good reads](#good-reads-)
+4. [Typography](#typography-)
+5. [Trends](#trends-)
+6. [Courses](#courses--)
 
 #### Platform guides ⬿
 
