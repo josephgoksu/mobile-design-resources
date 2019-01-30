@@ -1,6 +1,4 @@
-<p align="center">
-    <img alt="awesome" src="logo.png" height="220" />
-</p>
+![LOGO](logo.png)
 
 ## A curated list of mobile design resources 📱
 
